@@ -34,12 +34,12 @@ With growing skills, a commitment to high-quality code, and the ability to work 
 
 ### 🌐 Most Used Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davinmetoti&show_icons=true&locale=en&layout=compact" alt="davinmetoti" /></p>
-
+<p></p>
 ### 🖥️ My GitHub Stats
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=davinmetoti&show_icons=true&locale=en" alt="davinmetoti" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=davinmetoti&" alt="davinmetoti" /></p>
-
+<p></p>
 ### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=davinmetoti&theme=juicyfresh&row=1&column=6" alt="davinmetoti" />

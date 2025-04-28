@@ -61,7 +61,7 @@ I'm committed to building **scalable**, **maintainable**, and **high-performance
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/540f5c34-f27c-4486-9c62-b17f85d224d1)" alt="Laravel" width="40" height="40"/>
+  <img src="https://img.icons8.com/arcade/64/laravel.png" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>

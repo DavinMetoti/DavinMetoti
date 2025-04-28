@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm <strong>Davin Metoti</strong></h1>
+![image](https://github.com/user-attachments/assets/bb4e5b91-1207-4e33-a499-5b5a39692331)<h1 align="center">Hello there 👋, I'm <strong>Davin Metoti</strong></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davinmetoti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -57,7 +57,7 @@ I'm committed to building **scalable**, **maintainable**, and **high-performance
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Flaravel&psig=AOvVaw2X0jQ1zTAnCNF_ZqbAcqHK&ust=1745914921497000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNivh5mm-owDFQAAAAAdAAAAABAE" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>

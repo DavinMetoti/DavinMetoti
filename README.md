@@ -1,4 +1,8 @@
-![image]([https://github.com/user-attachments/assets/bb4e5b91-1207-4e33-a499-5b5a39692331](https://avatars.githubusercontent.com/u/110443558?v=4))<h1 align="center">Hello there 👋, I'm <strong>Davin Metoti</strong></h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/110443558?v=4" alt="Davin Metoti" width="200" />
+</p>
+
+<h1 align="center">Hello there 👋, I'm <strong>Davin Metoti</strong></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davinmetoti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

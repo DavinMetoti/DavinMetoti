@@ -10,7 +10,7 @@ Furthermore, I am continuously keeping up with the latest trends in the web deve
 
 With growing skills, a commitment to high-quality code, and the ability to work in teams, I am ready to take on more complex challenges in web development.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davinmetoti&label=Profile%20views&color=0e75b6&style=flat" alt="davinmetoti" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=davinmetoti&label=Profile%20views&color=0e75b6&style=flat" alt="davinmetoti" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

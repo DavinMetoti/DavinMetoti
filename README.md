@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Davin Metoti</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
+<p>I am a web development professional with over 2 years of experience in designing, developing, and maintaining responsive and efficient web applications. During this time, I have worked with various modern technologies such as Laravel, Angular, and Bootstrap, as well as tools like Tinkerwell, Expose, and Vite to optimize local development workflows and testing.
+
+My expertise includes backend development using Laravel, as well as creating dynamic and interactive user interfaces with Angular. I am also experienced in using CSS frameworks like Bootstrap to ensure responsive and user-friendly interfaces. In addition, I am well-versed in database management, query optimization, and implementing user authentication and authorization.
+
+My experience also extends to managing APIs, both in developing RESTful APIs for frontend applications and integrating with external systems. I focus on best practices in software development, such as using the MVC pattern, proper error handling with try and catch, and unit and integration testing to ensure high code quality.
+
+Furthermore, I am continuously keeping up with the latest trends in the web development industry, ensuring that the applications I create are always using the latest technologies to provide the best user experience.
+
+With growing skills, a commitment to high-quality code, and the ability to work in teams, I am ready to take on more complex challenges in web development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davinmetoti&label=Profile%20views&color=0e75b6&style=flat" alt="davinmetoti" /> </p>
 
